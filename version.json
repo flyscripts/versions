@@ -2,5 +2,7 @@
   "version": "1.0.2",
   "build_number": 101,
   "release_date": "2025-11-22",
-  "channel": "stable"
+  "channel": "stable",
+  "download_url": ""
+  "release_notes": "deneme açıklaması"
 }
